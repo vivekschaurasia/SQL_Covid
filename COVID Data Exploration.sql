@@ -3,7 +3,7 @@ Covid 19 Data Exploration
 */
 
 Select *
-From PortfolioProject..CovidDeaths
+From PortfolioProject..CovidDeaths 
 Where continent is not null 
 order by 3,4
 
